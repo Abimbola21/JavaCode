@@ -1,0 +1,7 @@
+Value at: 0 = 0
+Value at: 1 = 1
+Value at: 2 = 4
+Value at: 3 = 9
+Value at: 4 = 16
+Value at: 5 = 25
+Value at: 6 = 36
